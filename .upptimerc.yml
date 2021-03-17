@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: Paidly # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
@@ -19,8 +19,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
