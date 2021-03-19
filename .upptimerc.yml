@@ -21,7 +21,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-  themeUrl: https://status.meetpaidly.com/paidlylight.css
+  # Temp fix till https://github.com/upptime/upptime/issues/256 gets addressed
+  themeUrl: https://raw.githubusercontent.com/Paidly/upptime/master/assets/paidlylight.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
