@@ -22,17 +22,17 @@
     "url": "https://app.meetpaidly.com",
     "icon": "https://favicons.githubusercontent.com/app.meetpaidly.com",
     "slug": "web-application",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1727,
-    "timeDay": 2016,
-    "timeWeek": 1727,
-    "timeMonth": 1727,
-    "timeYear": 1727,
+    "time": 1490,
+    "timeDay": 1648,
+    "timeWeek": 1490,
+    "timeMonth": 1490,
+    "timeYear": 1490,
     "dailyMinutesDown": {}
   }
 ]
