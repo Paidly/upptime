@@ -21,6 +21,7 @@ status-website:
   navbar:
     - title: Status
       href: /
+  themeUrl: https://meetpaidly.com/status/paidlylight.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
