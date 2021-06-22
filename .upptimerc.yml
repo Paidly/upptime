@@ -8,7 +8,10 @@ sites:
     url: https://meetpaidly.com
   - name: Web Application
     url: https://app.meetpaidly.com
-
+  - name: Help & Support Site
+    url: https://help.meetpaidly.com
+  - name: API Endpoint
+    url: $API_ENDPOINT  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
