@@ -33,7 +33,7 @@ assignees:
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-notifications:
+env:
   NOTIFICATION_SLACK_STRATEGY: roundrobin
   NOTIFICATION_SLACK: true
   NOTIFICATION_SLACK_WEBHOOK: true
