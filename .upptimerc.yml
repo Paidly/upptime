@@ -12,6 +12,8 @@ sites:
     url: https://help.meetpaidly.com
   - name: API Endpoint
     url: $API_ENDPOINT
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -33,14 +35,3 @@ assignees:
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-env:
-  NOTIFICATION_SLACK_STRATEGY: roundrobin
-  NOTIFICATION_SLACK: true
-  NOTIFICATION_SLACK_WEBHOOK: true
-  NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
-  NOTIFICATION_EMAIL: true
-  NOTIFICATION_EMAIL_FROM: ${{ secrets.NOTIFICATION_EMAIL_FROM }}
-  NOTIFICATION_EMAIL_TO: ${{ secrets.NOTIFICATION_EMAIL_TO }}
-  NOTIFICATION_EMAIL_MAILGUN: true
-  NOTIFICATION_EMAIL_MAILGUN_API_KEY: ${{ secrets.NOTIFICATION_EMAIL_MAILGUN_API_KEY }}
-  NOTIFICATION_EMAIL_MAILGUN_DOMAIN_NAME: ${{ secrets.NOTIFICATION_EMAIL_MAILGUN_DOMAIN_NAME }}
