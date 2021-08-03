@@ -13,7 +13,7 @@ sites:
   - name: API Endpoint
     url: $API_ENDPOINT
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://meetpaidly.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
