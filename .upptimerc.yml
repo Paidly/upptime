@@ -28,6 +28,9 @@ status-website:
       href: https://meetpaidly.com
   themeUrl: https://meetpaidly.com/status/paidlylight.css
 
+assignees:
+  - shawncarr
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 notifications:
@@ -35,3 +38,9 @@ notifications:
   NOTIFICATION_SLACK: true
   NOTIFICATION_SLACK_WEBHOOK: true
   NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
+  NOTIFICATION_EMAIL: true
+  NOTIFICATION_EMAIL_FROM: ${{ secrets.NOTIFICATION_EMAIL_FROM }}
+  NOTIFICATION_EMAIL_TO: ${{ secrets.NOTIFICATION_EMAIL_TO }}
+  NOTIFICATION_EMAIL_MAILGUN: true
+  NOTIFICATION_EMAIL_MAILGUN_API_KEY: ${{ secrets.NOTIFICATION_EMAIL_MAILGUN_API_KEY }}
+  NOTIFICATION_EMAIL_MAILGUN_DOMAIN_NAME: ${{ secrets.NOTIFICATION_EMAIL_MAILGUN_DOMAIN_NAME }}
