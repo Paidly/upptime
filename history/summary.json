@@ -4,19 +4,19 @@
     "url": "https://meetpaidly.com",
     "icon": "https://favicons.githubusercontent.com/meetpaidly.com",
     "slug": "marketing-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 327,
-    "timeWeek": 285,
-    "timeMonth": 283,
-    "timeYear": 351,
+    "time": 353,
+    "timeDay": 589,
+    "timeWeek": 355,
+    "timeMonth": 300,
+    "timeYear": 353,
     "dailyMinutesDown": {
-      "2021-09-10": 0
+      "2021-09-10": 10
     }
   },
   {
