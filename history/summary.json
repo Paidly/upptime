@@ -22,9 +22,9 @@
     "url": "https://app.meetpaidly.com",
     "icon": "https://favicons.githubusercontent.com/app.meetpaidly.com",
     "slug": "web-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 251,
     "timeMonth": 264,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-27": 0
+    }
   },
   {
     "name": "Help & Support Site",
