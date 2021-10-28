@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 308,
-    "timeWeek": 331,
-    "timeMonth": 288,
+    "timeDay": 250,
+    "timeWeek": 325,
+    "timeMonth": 291,
     "timeYear": 334,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "web-application",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 172,
-    "timeWeek": 242,
-    "timeMonth": 261,
+    "timeDay": 191,
+    "timeWeek": 226,
+    "timeMonth": 265,
     "timeYear": 323,
-    "dailyMinutesDown": {
-      "2021-10-27": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help & Support Site",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 570,
-    "timeWeek": 424,
-    "timeMonth": 439,
-    "timeYear": 481,
+    "time": 482,
+    "timeDay": 699,
+    "timeWeek": 426,
+    "timeMonth": 456,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 373,
-    "timeDay": 417,
-    "timeWeek": 330,
-    "timeMonth": 331,
-    "timeYear": 373,
+    "time": 374,
+    "timeDay": 464,
+    "timeWeek": 321,
+    "timeMonth": 343,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2021-09-10": 26,
       "2021-09-09": 278
