@@ -27,11 +27,10 @@ status-website:
     - title: Site
       href: https://meetpaidly.com
   themeUrl: https://meetpaidly.com/status/paidlylight.css
-
+  robotsText: "User-agent: * \n Disallow: /"
+  
 assignees:
   - shawncarr
-
-robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
