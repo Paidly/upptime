@@ -6,18 +6,16 @@
     "slug": "marketing-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 147,
-    "timeWeek": 145,
-    "timeMonth": 148,
-    "timeYear": 261,
-    "dailyMinutesDown": {
-      "2022-06-01": 6
-    }
+    "time": 275,
+    "timeDay": 184,
+    "timeWeek": 153,
+    "timeMonth": 151,
+    "timeYear": 260,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web Application",
@@ -26,18 +24,16 @@
     "slug": "web-application",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 157,
-    "timeWeek": 180,
-    "timeMonth": 153,
+    "timeDay": 171,
+    "timeWeek": 188,
+    "timeMonth": 155,
     "timeYear": 225,
-    "dailyMinutesDown": {
-      "2022-06-01": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help & Support Site",
@@ -46,17 +42,16 @@
     "slug": "help-and-support-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 441,
-    "timeDay": 206,
-    "timeWeek": 257,
-    "timeMonth": 291,
+    "timeDay": 268,
+    "timeWeek": 256,
+    "timeMonth": 292,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2022-06-01": 6,
       "2021-12-14": 44
     }
   },
@@ -67,17 +62,16 @@
     "slug": "api-endpoint",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 343,
-    "timeDay": 158,
-    "timeWeek": 218,
-    "timeMonth": 254,
+    "timeDay": 217,
+    "timeWeek": 220,
+    "timeMonth": 253,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-06-01": 6,
       "2021-09-10": 26,
       "2021-09-09": 278
     }
