@@ -46,9 +46,9 @@
     "url": "https://help.meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.meetpaidly.com.ico",
     "slug": "help-and-support-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -58,6 +58,7 @@
     "timeMonth": 273,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2023-04-24": 0,
       "2022-06-30": 34,
       "2022-06-21": 31
     }
