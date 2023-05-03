@@ -12,6 +12,8 @@ sites:
     url: https://help.meetpaidly.com
   - name: API Endpoint
     url: $API_ENDPOINT
+  - name: Friends Helping Friends
+    url: $FHF_USER_URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
