@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 99,
-    "timeWeek": 191,
-    "timeMonth": 174,
-    "timeYear": 193,
+    "timeDay": 319,
+    "timeWeek": 218,
+    "timeMonth": 180,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2022-06-30": 34,
       "2022-06-21": 42
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 109,
+    "timeDay": 138,
     "timeWeek": 168,
-    "timeMonth": 178,
+    "timeMonth": 180,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2022-06-30": 34,
@@ -52,9 +52,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 340,
-    "timeDay": 231,
-    "timeWeek": 340,
+    "time": 339,
+    "timeDay": 181,
+    "timeWeek": 326,
     "timeMonth": 296,
     "timeYear": 339,
     "dailyMinutesDown": {
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 274,
-    "timeDay": 205,
-    "timeWeek": 229,
-    "timeMonth": 205,
+    "timeDay": 110,
+    "timeWeek": 230,
+    "timeMonth": 204,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2022-06-30": 34,
@@ -89,18 +89,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "friends-helping-friends",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 961,
-    "timeDay": 251,
-    "timeWeek": 347,
-    "timeMonth": 989,
-    "timeYear": 961,
-    "dailyMinutesDown": {
-      "2023-06-04": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 943,
+    "timeDay": 288,
+    "timeWeek": 360,
+    "timeMonth": 835,
+    "timeYear": 943,
+    "dailyMinutesDown": {}
   }
 ]
