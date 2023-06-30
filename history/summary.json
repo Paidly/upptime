@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 114,
-    "timeWeek": 153,
+    "timeDay": 118,
+    "timeWeek": 156,
     "timeMonth": 164,
-    "timeYear": 186,
-    "dailyMinutesDown": {
-      "2022-06-30": 34
-    }
+    "timeYear": 185,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web Application",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 66,
-    "timeWeek": 111,
-    "timeMonth": 135,
-    "timeYear": 175,
-    "dailyMinutesDown": {
-      "2022-06-30": 34
-    }
+    "timeDay": 96,
+    "timeWeek": 115,
+    "timeMonth": 134,
+    "timeYear": 174,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help & Support Site",
@@ -50,14 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 339,
+    "time": 338,
     "timeDay": 198,
-    "timeWeek": 307,
-    "timeMonth": 358,
-    "timeYear": 335,
-    "dailyMinutesDown": {
-      "2022-06-30": 34
-    }
+    "timeWeek": 308,
+    "timeMonth": 359,
+    "timeYear": 334,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Endpoint",
@@ -71,13 +65,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 269,
-    "timeDay": 110,
-    "timeWeek": 226,
+    "timeDay": 125,
+    "timeWeek": 230,
     "timeMonth": 220,
-    "timeYear": 256,
-    "dailyMinutesDown": {
-      "2022-06-30": 34
-    }
+    "timeYear": 255,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Friends Helping Friends",
@@ -90,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
-    "time": 829,
-    "timeDay": 235,
-    "timeWeek": 295,
-    "timeMonth": 615,
-    "timeYear": 829,
+    "time": 821,
+    "timeDay": 260,
+    "timeWeek": 305,
+    "timeMonth": 614,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2023-06-13": 82
     }
