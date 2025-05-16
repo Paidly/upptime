@@ -58,11 +58,11 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 220,
@@ -70,7 +70,7 @@
     "timeMonth": 242,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-05-16": 6
+      "2025-05-16": 0
     }
   },
   {
