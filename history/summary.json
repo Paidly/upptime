@@ -22,19 +22,19 @@
     "url": "https://app.meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.meetpaidly.com.ico",
     "slug": "web-application",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 223,
-    "timeWeek": 172,
-    "timeMonth": 164,
-    "timeYear": 167,
+    "timeDay": 160,
+    "timeWeek": 163,
+    "timeMonth": 162,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-06-02": 0
+      "2025-06-02": 11
     }
   },
   {
