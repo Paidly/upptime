@@ -4,7 +4,7 @@
     "url": "https://meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/meetpaidly.com.ico",
     "slug": "marketing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 236,
     "timeMonth": 204,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-22": 0
+    }
   },
   {
     "name": "Web Application",
