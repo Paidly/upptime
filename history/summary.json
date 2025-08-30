@@ -4,19 +4,19 @@
     "url": "https://meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/meetpaidly.com.ico",
     "slug": "marketing-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 228,
-    "timeWeek": 882,
-    "timeMonth": 386,
-    "timeYear": 201,
+    "timeDay": 248,
+    "timeWeek": 816,
+    "timeMonth": 383,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-08-30": 0
+      "2025-08-30": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.meetpaidly.com.ico",
     "slug": "web-application",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 300,
-    "timeWeek": 321,
-    "timeMonth": 248,
+    "time": 176,
+    "timeDay": 275,
+    "timeWeek": 311,
+    "timeMonth": 247,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-08-30": 0
+      "2025-08-30": 12
     }
   },
   {
