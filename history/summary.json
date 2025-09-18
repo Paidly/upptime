@@ -4,19 +4,19 @@
     "url": "https://meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/meetpaidly.com.ico",
     "slug": "marketing-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 323,
-    "timeWeek": 261,
-    "timeMonth": 409,
+    "timeDay": 338,
+    "timeWeek": 273,
+    "timeMonth": 408,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-09-18": 0
+      "2025-09-18": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.meetpaidly.com.ico",
     "slug": "web-application",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 241,
-    "timeWeek": 220,
-    "timeMonth": 282,
+    "timeDay": 243,
+    "timeWeek": 223,
+    "timeMonth": 281,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-09-18": 0
+      "2025-09-18": 11
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "$FHF_USER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "friends-helping-friends",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 79,
-    "timeWeek": 226,
-    "timeMonth": 237,
+    "timeDay": 100,
+    "timeWeek": 217,
+    "timeMonth": 235,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-09-18": 0
+      "2025-09-18": 11
     }
   }
 ]
