@@ -4,36 +4,40 @@
     "url": "https://meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/meetpaidly.com.ico",
     "slug": "marketing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 227,
-    "timeWeek": 239,
+    "time": 196,
+    "timeDay": 323,
+    "timeWeek": 261,
     "timeMonth": 409,
-    "timeYear": 206,
-    "dailyMinutesDown": {}
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2025-09-18": 0
+    }
   },
   {
     "name": "Web Application",
     "url": "https://app.meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.meetpaidly.com.ico",
     "slug": "web-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 234,
-    "timeWeek": 216,
-    "timeMonth": 283,
+    "timeDay": 241,
+    "timeWeek": 220,
+    "timeMonth": 282,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-18": 0
+    }
   },
   {
     "name": "Help & Support Site",
@@ -76,17 +80,19 @@
     "url": "$FHF_USER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "friends-helping-friends",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 110,
-    "timeWeek": 252,
-    "timeMonth": 243,
+    "timeDay": 79,
+    "timeWeek": 226,
+    "timeMonth": 237,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-18": 0
+    }
   }
 ]
