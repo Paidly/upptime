@@ -1,7 +1,7 @@
 url: https://app.meetpaidly.com
-status: down
-code: 403
+status: up
+code: 200
 responseTime: 247
-lastUpdated: 2025-09-18T18:37:22.597Z
+lastUpdated: 2025-09-18T18:48:37.577Z
 startTime: 2021-03-18T01:47:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
