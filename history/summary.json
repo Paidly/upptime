@@ -6,18 +6,16 @@
     "slug": "marketing-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 338,
-    "timeWeek": 273,
-    "timeMonth": 408,
-    "timeYear": 207,
-    "dailyMinutesDown": {
-      "2025-09-18": 11
-    }
+    "time": 197,
+    "timeDay": 360,
+    "timeWeek": 269,
+    "timeMonth": 410,
+    "timeYear": 208,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web Application",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.meetpaidly.com.ico",
     "slug": "web-application",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 243,
-    "timeWeek": 223,
-    "timeMonth": 281,
+    "time": 181,
+    "timeDay": 262,
+    "timeWeek": 234,
+    "timeMonth": 283,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2025-09-18": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help & Support Site",
@@ -50,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 275,
-    "timeWeek": 445,
-    "timeMonth": 403,
+    "time": 333,
+    "timeDay": 456,
+    "timeWeek": 436,
+    "timeMonth": 408,
     "timeYear": 340,
     "dailyMinutesDown": {}
   },
@@ -68,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 202,
-    "timeWeek": 359,
-    "timeMonth": 463,
+    "time": 268,
+    "timeDay": 354,
+    "timeWeek": 328,
+    "timeMonth": 467,
     "timeYear": 274,
     "dailyMinutesDown": {}
   },
@@ -82,17 +78,15 @@
     "slug": "friends-helping-friends",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 100,
-    "timeWeek": 217,
-    "timeMonth": 235,
+    "timeDay": 157,
+    "timeWeek": 226,
+    "timeMonth": 240,
     "timeYear": 148,
-    "dailyMinutesDown": {
-      "2025-09-18": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
