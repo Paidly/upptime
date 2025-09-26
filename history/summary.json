@@ -6,9 +6,9 @@
     "slug": "marketing-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 198,
     "timeDay": 170,
@@ -16,7 +16,7 @@
     "timeMonth": 383,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-09-26": 0
+      "2025-09-26": 9
     }
   },
   {
@@ -25,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.meetpaidly.com.ico",
     "slug": "web-application",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 207,
@@ -36,7 +36,7 @@
     "timeMonth": 265,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-09-26": 0
+      "2025-09-26": 9
     }
   },
   {
