@@ -10,9 +10,9 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 198,
-    "timeDay": 239,
-    "timeWeek": 235,
+    "time": 199,
+    "timeDay": 217,
+    "timeWeek": 241,
     "timeMonth": 257,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 181,
-    "timeDay": 211,
-    "timeWeek": 220,
-    "timeMonth": 246,
+    "timeDay": 179,
+    "timeWeek": 218,
+    "timeMonth": 242,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2025-09-26": 30
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 248,
-    "timeWeek": 382,
-    "timeMonth": 405,
+    "timeDay": 518,
+    "timeWeek": 418,
+    "timeMonth": 414,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 186,
-    "timeWeek": 331,
-    "timeMonth": 309,
-    "timeYear": 276,
+    "timeDay": 308,
+    "timeWeek": 352,
+    "timeMonth": 313,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   },
   {
@@ -82,17 +82,15 @@
     "slug": "friends-helping-friends",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 82,
-    "timeWeek": 165,
-    "timeMonth": 186,
+    "timeDay": 91,
+    "timeWeek": 163,
+    "timeMonth": 184,
     "timeYear": 149,
-    "dailyMinutesDown": {
-      "2025-09-29": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
