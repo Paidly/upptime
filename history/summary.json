@@ -6,9 +6,9 @@
     "slug": "marketing-site",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 208,
     "timeDay": 187,
@@ -16,7 +16,8 @@
     "timeMonth": 369,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-10-04": 0,
+      "2025-10-05": 14,
+      "2025-10-04": 5,
       "2025-09-26": 30
     }
   },
@@ -27,9 +28,9 @@
     "slug": "web-application",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 181,
     "timeDay": 138,
@@ -37,7 +38,8 @@
     "timeMonth": 229,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-10-04": 0,
+      "2025-10-05": 14,
+      "2025-10-04": 5,
       "2025-09-26": 30
     }
   },
@@ -84,17 +86,15 @@
     "slug": "friends-helping-friends",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
     "timeDay": 175,
     "timeWeek": 168,
     "timeMonth": 187,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2025-10-04": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
