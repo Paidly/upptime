@@ -86,19 +86,19 @@
     "url": "$FHF_USER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "friends-helping-friends",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 145,
-    "timeWeek": 186,
-    "timeMonth": 175,
+    "time": 143,
+    "timeDay": 201,
+    "timeWeek": 200,
+    "timeMonth": 179,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-10-22": 0
+      "2025-10-22": 10
     }
   }
 ]
