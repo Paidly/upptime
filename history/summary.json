@@ -88,17 +88,15 @@
     "slug": "friends-helping-friends",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
     "timeDay": 153,
     "timeWeek": 190,
     "timeMonth": 180,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2025-11-02": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
