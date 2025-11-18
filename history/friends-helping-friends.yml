@@ -1,7 +1,7 @@
 url: $FHF_USER_URL
-status: up
-code: 200
-responseTime: 195
-lastUpdated: 2025-11-17T23:06:05.828Z
+status: down
+code: 500
+responseTime: 6
+lastUpdated: 2025-11-18T11:47:46.839Z
 startTime: 2023-05-03T18:56:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
