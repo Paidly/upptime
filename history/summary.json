@@ -52,10 +52,10 @@
     "url": "https://help.meetpaidly.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.meetpaidly.com.ico",
     "slug": "help-and-support-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 347,
@@ -64,6 +64,7 @@
     "timeMonth": 324,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2026-01-27": 1,
       "2025-11-18": 41
     }
   },
@@ -72,10 +73,10 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 274,
@@ -84,6 +85,7 @@
     "timeMonth": 249,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2026-01-27": 1,
       "2025-11-18": 62,
       "2025-10-20": 20
     }
@@ -93,9 +95,9 @@
     "url": "$FHF_USER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "friends-helping-friends",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -105,6 +107,7 @@
     "timeMonth": 176,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2026-01-27": 0,
       "2025-11-18": 62
     }
   }
